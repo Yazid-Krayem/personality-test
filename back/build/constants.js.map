@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/constants.js"],"names":["APP_PORT"],"mappings":";;;;;;AAAO,IAAMA,QAAQ,GAAG,IAAjB","sourcesContent":["export const APP_PORT = 8082;\n"],"file":"constants.js"}
